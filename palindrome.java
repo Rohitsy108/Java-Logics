@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class revers
+public class palindrome
 {
     public static void main(String[] args) 
     {
