@@ -1,5 +1,5 @@
 
-// ---------------This is the program to revers in one varibale value by taking input from user---------------------------
+// ---------------This is the program to palindrome or revers one varibale value by taking input from user---------------------------
 
 import java.util.Scanner;
 
