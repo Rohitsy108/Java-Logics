@@ -1,6 +1,6 @@
 // -----------------------This is a program to find the sum of all in numbers---------------------------
 
-public class summ 
+public class sum 
 {
     public static void main(String[] args) 
     {
